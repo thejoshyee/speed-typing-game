@@ -11,7 +11,7 @@ This was for Scrimba's Front-End Career Path where I used React to create a spee
 		- Use Ref
 
 ## Preview
-<img src="" width="50%" />
+<img src="https://github.com/thejoshyee/speed-typing-game/blob/main/speed-typing-preview.png width="50%" />
 
 
 Quick start:
